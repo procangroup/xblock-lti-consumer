@@ -14,5 +14,3 @@ quality:
 test:
 	./scripts/test.sh
 
-zaezatest:
-	./scripts/test.sh
