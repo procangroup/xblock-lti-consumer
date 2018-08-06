@@ -57,7 +57,7 @@
 #     Default to False.
 
 
-GITHUB_REPOSITORY="openfun/marsha"
+GITHUB_REPOSITORY="procangroup/xblock-lti-consumer"
 GIST_ACCOUNT="funmoocbot"
 GIST_ID="94ea3f4054e4d250104e1bb98c92f2af"
 CI="circleci"
